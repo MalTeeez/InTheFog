@@ -16,8 +16,8 @@
             "image" : "mainmenu:textures/logo.png",
             "posX" : 50,
             "posY" : 0,
-            "width" : 250,
-            "height" : 120,
+            "width" : 256,
+            "height" : 256,
             "alignment" : "top_left"
         }
 
@@ -188,8 +188,8 @@
       "panorama":
       {
           "images" : "mainmenu:textures/1.png",
-            "animate" : false,
-            "animationSpeed" : 0,
+            "animate" : true,
+            "animationSpeed" : 1,
             "blur" : true,
             "gradient" : false
 }
