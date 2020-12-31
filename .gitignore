@@ -13,6 +13,7 @@
 .minecraft/logs/*
 .minecraft/crash-reports/*
 .minecraft/crafttweaker.log
+.minecraft/hs_*.log
 
 #ReAuth
 .minecraft/.ReAuth.cfg
