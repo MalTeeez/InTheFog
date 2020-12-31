@@ -14,10 +14,10 @@
 		"logo":
         {
             "image" : "mainmenu:textures/logo.png",
-            "posX" : 128,
+            "posX" : 125,
             "posY" : 0,
-            "width" : 112,
-            "height" : 112,
+            "width" : 102,
+            "height" : 102,
             "alignment" : "top_left"
         }
 

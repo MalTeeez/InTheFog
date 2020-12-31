@@ -14,6 +14,7 @@
 .minecraft/crash-reports/*
 .minecraft/crafttweaker.log
 .minecraft/hs_*.log
+.minecraft/mods/OpenTerrainGenerator
 
 #ReAuth
 .minecraft/.ReAuth.cfg
@@ -28,6 +29,7 @@
 .minecraft/usercache.dat
 .minecraft/usernamecache.dat
 .minecraft/patchouli_data.json
+instance.cfg
 
 #natives
 natives/
