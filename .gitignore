@@ -1,7 +1,7 @@
 #startup animation for smaller download + resourcepack + shaders
 .minecraft/shaderpacks
-.minecraft/resourcepacks
-.minecraft/animation
+#.minecraft/resourcepacks
+#.minecraft/animation
 
 #backup folders
 .minecraft/backups/
