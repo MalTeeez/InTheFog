@@ -8,6 +8,7 @@
 
 #other old stuff
 .minecraft/config/binocular_*.cfg
+.minecraft/XaeroWorldMap
 
 #logs
 .minecraft/logs/*

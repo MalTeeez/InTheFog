@@ -1,9 +1,0 @@
-diff a/.minecraft/config/splash.properties b/.minecraft/config/splash.properties	(rejected hunks)
-@@ -0,6 +0,7 @@
- rotate=false
- memoryWarn=0xB74E6C
- showMemory=true
-+bar=0x24292D
- enabled=true
- resourcePackPath=resources
- logoOffset=0
