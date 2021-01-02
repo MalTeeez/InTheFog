@@ -9,6 +9,7 @@
 #other old stuff
 .minecraft/config/binocular_*.cfg
 .minecraft/XaeroWorldMap
+.minecraft/XaeroWaypoints
 
 #logs
 .minecraft/logs/*
@@ -16,6 +17,7 @@
 .minecraft/crafttweaker.log
 .minecraft/hs_*.log
 .minecraft/mods/OpenTerrainGenerator
+.minecraft/.mixin.out/audit
 
 #ReAuth
 .minecraft/.ReAuth.cfg
@@ -31,6 +33,8 @@
 .minecraft/usernamecache.dat
 .minecraft/patchouli_data.json
 instance.cfg
+.minecraft/usercache.json
+.minecraft/config/jei/worldSettings.cfg
 
 #natives
 natives/
