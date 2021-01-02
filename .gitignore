@@ -38,3 +38,6 @@ instance.cfg
 
 #natives
 natives/
+
+#rollout zips
+.minecraft/InTheFog*.zip
